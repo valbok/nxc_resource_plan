@@ -9,4 +9,4 @@ There is an ability to assign users to projects, define time of a task and look 
 For example:
 * For specified date user does not have any tasks and his load is 0%.
 * Task 4h is assigned to specified date for this user.
-* Now he has 50% as a load, and there is an ability additionally to add him new task that require not more 4h to prevent overlimit 8h.
+* Now he has 50% as a load, and there is an ability additionally to add him new tasks that require not more 4h to prevent exceeding the limit 8h.
